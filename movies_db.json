@@ -1,0 +1,1402 @@
+[
+    {
+        "title": "Baahubali: The Beginning",
+        "language": "Telugu",
+        "release_year": 2015,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "imdb_rating": 8.0,
+        "duration": 159,
+        "director": "S. S. Rajamouli",
+        "cast": [
+            "Prabhas",
+            "Rana Daggubati",
+            "Anushka Shetty",
+            "Tamannaah Bhatia"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t4824302/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Baahubali_The_Beginning_poster.jpg"
+    },
+    {
+        "title": "RRR",
+        "language": "Telugu",
+        "release_year": 2022,
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "imdb_rating": 7.8,
+        "duration": 187,
+        "director": "S. S. Rajamouli",
+        "cast": [
+            "Ram Charan",
+            "N. T. Rama Rao Jr.",
+            "Alia Bhatt",
+            "Olivia Morris"
+        ],
+        "moods": [
+            "Thrilling",
+            "Happy",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t8178696/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg"
+    },
+    {
+        "title": "Jersey",
+        "language": "Telugu",
+        "release_year": 2019,
+        "genres": [
+            "Drama",
+            "Sports"
+        ],
+        "imdb_rating": 8.5,
+        "duration": 160,
+        "director": "Gowtam Tinnanuri",
+        "cast": [
+            "Nani",
+            "Shraddha Srinath",
+            "Sathyaraj"
+        ],
+        "moods": [
+            "Sad",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t9861614/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/10/Jersey_2019_poster.jpg"
+    },
+    {
+        "title": "Arjun Reddy",
+        "language": "Telugu",
+        "release_year": 2017,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.0,
+        "duration": 182,
+        "director": "Sandeep Reddy Vanga",
+        "cast": [
+            "Vijay Deverakonda",
+            "Shalini Pandey",
+            "Rahul Ramakrishna"
+        ],
+        "moods": [
+            "Sad",
+            "Romantic"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/t7294534/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Arjun_Reddy.jpg"
+    },
+    {
+        "title": "Eega",
+        "language": "Telugu",
+        "release_year": 2012,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "imdb_rating": 7.7,
+        "duration": 145,
+        "director": "S. S. Rajamouli",
+        "cast": [
+            "Sudeep",
+            "Nani",
+            "Samantha Ruth Prabhu"
+        ],
+        "moods": [
+            "Happy",
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t2258337/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Eega_poster.jpg"
+    },
+    {
+        "title": "Mahanati",
+        "language": "Telugu",
+        "release_year": 2018,
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "imdb_rating": 8.4,
+        "duration": 177,
+        "director": "Nag Ashwin",
+        "cast": [
+            "Keerthy Suresh",
+            "Dulquer Salmaan",
+            "Samantha Ruth Prabhu",
+            "Vijay Deverakonda"
+        ],
+        "moods": [
+            "Sad",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t7454940/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Mahanati_poster.jpg"
+    },
+    {
+        "title": "Agent Sai Srinivasa Athreya",
+        "language": "Telugu",
+        "release_year": 2019,
+        "genres": [
+            "Comedy",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 148,
+        "director": "Swaroop RSJ",
+        "cast": [
+            "Naveen Polishetty",
+            "Shruti Sharma",
+            "Suhas"
+        ],
+        "moods": [
+            "Happy",
+            "Thrilling",
+            "Relaxing"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t10376176/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_Sai_Srinivasa_Athreya_poster.jpg"
+    },
+    {
+        "title": "Pushpa: The Rise",
+        "language": "Telugu",
+        "release_year": 2021,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "imdb_rating": 7.6,
+        "duration": 179,
+        "director": "Sukumar",
+        "cast": [
+            "Allu Arjun",
+            "Rashmika Mandanna",
+            "Fahadh Faasil"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/t12304882/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/75/Pushpa_-_The_Rise_%282021_film%29.jpg"
+    },
+    {
+        "title": "C/o Kancharapalem",
+        "language": "Telugu",
+        "release_year": 2018,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.9,
+        "duration": 142,
+        "director": "Venkatesh Maha",
+        "cast": [
+            "Subba Rao",
+            "Radha Bessey",
+            "Kesava Karri"
+        ],
+        "moods": [
+            "Relaxing",
+            "Romantic",
+            "Sad"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t8837130/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kMszS6kH3qPzS1xZt5U6kQ9z7j1.jpg"
+    },
+    {
+        "title": "Mathu Vadalara",
+        "language": "Telugu",
+        "release_year": 2019,
+        "genres": [
+            "Comedy",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 128,
+        "director": "Ritesh Rana",
+        "cast": [
+            "Sri Simha",
+            "Satya",
+            "Naresh Agastya"
+        ],
+        "moods": [
+            "Happy",
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t11354062/",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kS1FvxZptU7d6U7U8NqUqV9B71C.jpg"
+    },
+    {
+        "title": "3 Idiots",
+        "language": "Hindi",
+        "release_year": 2009,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdb_rating": 8.4,
+        "duration": 170,
+        "director": "Rajkumar Hirani",
+        "cast": [
+            "Aamir Khan",
+            "R. Madhavan",
+            "Sharman Joshi",
+            "Kareena Kapoor"
+        ],
+        "moods": [
+            "Happy",
+            "Inspired",
+            "Relaxing"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t1187043/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg"
+    },
+    {
+        "title": "Dangal",
+        "language": "Hindi",
+        "release_year": 2016,
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama",
+            "Sports"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 161,
+        "director": "Nitesh Tiwari",
+        "cast": [
+            "Aamir Khan",
+            "Sakshi Tanwar",
+            "Fatima Sana Shaikh"
+        ],
+        "moods": [
+            "Inspired",
+            "Sad",
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t5074352/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg"
+    },
+    {
+        "title": "Zindagi Na Milegi Dobara",
+        "language": "Hindi",
+        "release_year": 2011,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 155,
+        "director": "Zoya Akhtar",
+        "cast": [
+            "Hrithik Roshan",
+            "Farhan Akhtar",
+            "Abhay Deol",
+            "Katrina Kaif"
+        ],
+        "moods": [
+            "Happy",
+            "Relaxing",
+            "Romantic"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t1562872/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/17/Zindagi_Na_Milegi_Dobara.jpg"
+    },
+    {
+        "title": "Andhadhun",
+        "language": "Hindi",
+        "release_year": 2018,
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 139,
+        "director": "Sriram Raghavan",
+        "cast": [
+            "Ayushmann Khurrana",
+            "Tabu",
+            "Radhika Apte"
+        ],
+        "moods": [
+            "Thrilling",
+            "Mind-Bending"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/t8108194/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/47/Andhadhun_poster.jpg"
+    },
+    {
+        "title": "Tumbbad",
+        "language": "Hindi",
+        "release_year": 2018,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Fantasy"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 104,
+        "director": "Rahi Anil Barve",
+        "cast": [
+            "Sohum Shah",
+            "Jyoti Malshe",
+            "Dhundiraj Prabhakar Prabhakar"
+        ],
+        "moods": [
+            "Thrilling",
+            "Horror"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/t8239950/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/41/Tumbbad_poster.jpg"
+    },
+    {
+        "title": "Drishyam",
+        "language": "Malayalam",
+        "release_year": 2013,
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Crime"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 160,
+        "director": "Jeethu Joseph",
+        "cast": [
+            "Mohanlal",
+            "Meena",
+            "Asha Sharath"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt3417436/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/93/Drishyam_2013_poster.jpg"
+    },
+    {
+        "title": "Stree",
+        "language": "Hindi",
+        "release_year": 2018,
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "imdb_rating": 7.5,
+        "duration": 128,
+        "director": "Amar Kaushik",
+        "cast": [
+            "Rajkummar Rao",
+            "Shraddha Kapoor",
+            "Pankaj Tripathi"
+        ],
+        "moods": [
+            "Happy",
+            "Horror",
+            "Relaxing"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t8172370/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Stree_-_2018_Movie_Poster.jpg"
+    },
+    {
+        "title": "Queen",
+        "language": "Hindi",
+        "release_year": 2013,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "imdb_rating": 8.1,
+        "duration": 146,
+        "director": "Vikas Bahl",
+        "cast": [
+            "Kangana Ranaut",
+            "Rajkummar Rao",
+            "Lisa Haydon"
+        ],
+        "moods": [
+            "Happy",
+            "Inspired",
+            "Relaxing"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t3322072/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/45/QueenMoviePoster7thMarch.jpg"
+    },
+    {
+        "title": "Gangs of Wasseypur",
+        "language": "Hindi",
+        "release_year": 2012,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 321,
+        "director": "Anurag Kashyap",
+        "cast": [
+            "Manoj Bajpayee",
+            "Nawazuddin Siddiqui",
+            "Richa Chadha"
+        ],
+        "moods": [
+            "Thrilling",
+            "Sad"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/t1954470/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Gangs_of_Wasseypur_poster.jpg"
+    },
+    {
+        "title": "Barfi!",
+        "language": "Hindi",
+        "release_year": 2012,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.1,
+        "duration": 151,
+        "director": "Anurag Basu",
+        "cast": [
+            "Ranbir Kapoor",
+            "Priyanka Chopra Jonas",
+            "Ileana D'Cruz"
+        ],
+        "moods": [
+            "Happy",
+            "Sad",
+            "Romantic"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/t2082197/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Barfi%21_poster.jpg"
+    },
+    {
+        "title": "Inception",
+        "language": "English",
+        "release_year": 2010,
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure",
+            "Thriller"
+        ],
+        "imdb_rating": 8.8,
+        "duration": 148,
+        "director": "Christopher Nolan",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page",
+            "Tom Hardy"
+        ],
+        "moods": [
+            "Thrilling",
+            "Mind-Bending"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt1375666/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "language": "English",
+        "release_year": 2008,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "imdb_rating": 9.0,
+        "duration": 152,
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Maggie Gyllenhaal"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt0468569/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "language": "English",
+        "release_year": 2014,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "imdb_rating": 8.7,
+        "duration": 169,
+        "director": "Christopher Nolan",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Michael Caine"
+        ],
+        "moods": [
+            "Inspired",
+            "Sad",
+            "Mind-Bending"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt0816692/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "language": "English",
+        "release_year": 1994,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "imdb_rating": 8.9,
+        "duration": 154,
+        "director": "Quentin Tarantino",
+        "cast": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson",
+            "Bruce Willis"
+        ],
+        "moods": [
+            "Thrilling",
+            "Mind-Bending"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt0110912/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "language": "English",
+        "release_year": 1999,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "imdb_rating": 8.7,
+        "duration": 136,
+        "director": "Lana Wachowski",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ],
+        "moods": [
+            "Thrilling",
+            "Mind-Bending"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt0133093/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Matrix.png"
+    },
+    {
+        "title": "Toy Story",
+        "language": "English",
+        "release_year": 1995,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 81,
+        "director": "John Lasseter",
+        "cast": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ],
+        "moods": [
+            "Happy",
+            "Relaxing"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt0114709/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "language": "English",
+        "release_year": 1994,
+        "genres": [
+            "Drama"
+        ],
+        "imdb_rating": 9.3,
+        "duration": 142,
+        "director": "Frank Darabont",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "moods": [
+            "Inspired",
+            "Sad"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt0111161/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+    },
+    {
+        "title": "The Conjuring",
+        "language": "English",
+        "release_year": 2013,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdb_rating": 7.5,
+        "duration": 112,
+        "director": "James Wan",
+        "cast": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Lili Taylor"
+        ],
+        "moods": [
+            "Horror",
+            "Thrilling"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt1457767/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg"
+    },
+    {
+        "title": "The Hangover",
+        "language": "English",
+        "release_year": 2009,
+        "genres": [
+            "Comedy"
+        ],
+        "imdb_rating": 7.7,
+        "duration": 100,
+        "director": "Todd Phillips",
+        "cast": [
+            "Bradley Cooper",
+            "Ed Helms",
+            "Zach Galifianakis"
+        ],
+        "moods": [
+            "Happy",
+            "Relaxing"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt1119646/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hangoverposter09.jpg"
+    },
+    {
+        "title": "The Notebook",
+        "language": "English",
+        "release_year": 2004,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 7.8,
+        "duration": 123,
+        "director": "Nick Cassavetes",
+        "cast": [
+            "Ryan Gosling",
+            "Rachel McAdams",
+            "James Garner"
+        ],
+        "moods": [
+            "Romantic",
+            "Sad"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt0332280/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg"
+    },
+    {
+        "title": "Whiplash",
+        "language": "English",
+        "release_year": 2014,
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "imdb_rating": 8.5,
+        "duration": 106,
+        "director": "Damien Chazelle",
+        "cast": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Paul Reiser"
+        ],
+        "moods": [
+            "Inspired",
+            "Thrilling"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt2582802/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "language": "English",
+        "release_year": 2018,
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_rating": 8.4,
+        "duration": 117,
+        "director": "Bob Persichetti",
+        "cast": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ],
+        "moods": [
+            "Happy",
+            "Inspired",
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt4633694/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png"
+    },
+    {
+        "title": "Shutter Island",
+        "language": "English",
+        "release_year": 2010,
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 138,
+        "director": "Martin Scorsese",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Mark Ruffalo",
+            "Ben Kingsley"
+        ],
+        "moods": [
+            "Thrilling",
+            "Mind-Bending"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt1130884/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg"
+    },
+    {
+        "title": "Before Sunrise",
+        "language": "English",
+        "release_year": 1995,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.1,
+        "duration": 101,
+        "director": "Richard Linklater",
+        "cast": [
+            "Ethan Hawke",
+            "Julie Delpy"
+        ],
+        "moods": [
+            "Romantic",
+            "Relaxing"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt0112471/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg"
+    },
+    {
+        "title": "Spirited Away",
+        "language": "English",
+        "release_year": 2001,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Fantasy",
+            "Family"
+        ],
+        "imdb_rating": 8.6,
+        "duration": 125,
+        "director": "Hayao Miyazaki",
+        "cast": [
+            "Rumi Hiiragi",
+            "Miyu Irino",
+            "Mari Natsuki"
+        ],
+        "moods": [
+            "Inspired",
+            "Relaxing",
+            "Happy"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt0245429/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png"
+    },
+    {
+        "title": "Vikram",
+        "language": "Tamil",
+        "release_year": 2022,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 175,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Kamal Haasan",
+            "Vijay Sethupathi",
+            "Fahadh Faasil"
+        ],
+        "moods": [
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt13463328/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/93/Vikram_2022_poster.jpg"
+    },
+    {
+        "title": "Jai Bhim",
+        "language": "Tamil",
+        "release_year": 2021,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "imdb_rating": 8.7,
+        "duration": 164,
+        "director": "T. J. Gnanavel",
+        "cast": [
+            "Suriya",
+            "Lijo Mol Jose",
+            "Manikandan"
+        ],
+        "moods": [
+            "Inspired",
+            "Sad"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt15097216/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/54/Jai_Bhim_poster.jpg"
+    },
+    {
+        "title": "Kumbalangi Nights",
+        "language": "Malayalam",
+        "release_year": 2019,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.5,
+        "duration": 135,
+        "director": "Madhu C. Narayanan",
+        "cast": [
+            "Fahadh Faasil",
+            "Shane Nigam",
+            "Soubin Shahir"
+        ],
+        "moods": [
+            "Happy",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt8413338/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Kumbalangi_Nights_poster.jpg"
+    },
+    {
+        "title": "Salaar",
+        "language": "Telugu",
+        "release_year": 2023,
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "imdb_rating": 6.6,
+        "duration": 175,
+        "director": "Prashanth Neel",
+        "cast": [
+            "Prabhas",
+            "Prithviraj Sukumaran",
+            "Shruti Haasan"
+        ],
+        "moods": [
+            "Thrilling"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt13728638/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Salaar_Part_1_%E2%80%93_Ceasefire.jpg"
+    },
+    {
+        "title": "Kalki 2898 AD",
+        "language": "Telugu",
+        "release_year": 2024,
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "imdb_rating": 7.0,
+        "duration": 181,
+        "director": "Nag Ashwin",
+        "cast": [
+            "Prabhas",
+            "Amitabh Bachchan",
+            "Kamal Haasan",
+            "Deepika Padukone"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt12735488/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kalki_2898_AD_poster.jpg"
+    },
+    {
+        "title": "Hi Nanna",
+        "language": "Telugu",
+        "release_year": 2023,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 155,
+        "director": "Shouryuv",
+        "cast": [
+            "Nani",
+            "Mrunal Thakur",
+            "Baby Kiara Khanna"
+        ],
+        "moods": [
+            "Romantic",
+            "Sad",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt26543160/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Hi_Nanna_poster.jpg"
+    },
+    {
+        "title": "Lucky Baskhar",
+        "language": "Telugu",
+        "release_year": 2024,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "imdb_rating": 8.1,
+        "duration": 148,
+        "director": "Venky Atluri",
+        "cast": [
+            "Dulquer Salmaan",
+            "Meenakshi Chaudhary"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt27771780/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/14/Lucky_Baskhar_poster.jpg"
+    },
+    {
+        "title": "Hanu-Man",
+        "language": "Telugu",
+        "release_year": 2024,
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "imdb_rating": 7.8,
+        "duration": 158,
+        "director": "Prasanth Varma",
+        "cast": [
+            "Teja Sajja",
+            "Amritha Aiyer",
+            "Varalaxmi Sarathkumar"
+        ],
+        "moods": [
+            "Happy",
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt14757350/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Hanuman_2024_poster.jpg"
+    },
+    {
+        "title": "Leo",
+        "language": "Tamil",
+        "release_year": 2023,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "imdb_rating": 7.2,
+        "duration": 164,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Vijay",
+            "Sanjay Dutt",
+            "Arjun Sarja",
+            "Trisha"
+        ],
+        "moods": [
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt15485496/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Leo_2023_poster.jpg"
+    },
+    {
+        "title": "96",
+        "language": "Tamil",
+        "release_year": 2018,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.5,
+        "duration": 158,
+        "director": "C. Prem Kumar",
+        "cast": [
+            "Vijay Sethupathi",
+            "Trisha Krishnan"
+        ],
+        "moods": [
+            "Romantic",
+            "Sad",
+            "Relaxing"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt8013580/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/87/96_movie_poster.jpg"
+    },
+    {
+        "title": "Maharaja",
+        "language": "Tamil",
+        "release_year": 2024,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "imdb_rating": 8.4,
+        "duration": 141,
+        "director": "Nithilan Saminathan",
+        "cast": [
+            "Vijay Sethupathi",
+            "Anurag Kashyap",
+            "Mamta Mohandas"
+        ],
+        "moods": [
+            "Thrilling",
+            "Sad"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt27299797/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Maharaja_2024_poster.jpg"
+    },
+    {
+        "title": "Premam",
+        "language": "Malayalam",
+        "release_year": 2015,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 156,
+        "director": "Alphonse Puthren",
+        "cast": [
+            "Nivin Pauly",
+            "Sai Pallavi",
+            "Madonna Sebastian",
+            "Anupama Parameswaran"
+        ],
+        "moods": [
+            "Romantic",
+            "Happy",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt4709724/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/14/Premam_malyalam_poster.jpg"
+    },
+    {
+        "title": "Manjummel Boys",
+        "language": "Malayalam",
+        "release_year": 2024,
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "imdb_rating": 8.2,
+        "duration": 135,
+        "director": "Chidambaram",
+        "cast": [
+            "Soubin Shahir",
+            "Sreenath Bhasi",
+            "Balalu Varghese"
+        ],
+        "moods": [
+            "Inspired",
+            "Thrilling",
+            "Sad"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt29026402/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/62/Manjummel_Boys_poster.jpg"
+    },
+    {
+        "title": "Aavesham",
+        "language": "Malayalam",
+        "release_year": 2024,
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "imdb_rating": 7.9,
+        "duration": 158,
+        "director": "Jithu Madhavan",
+        "cast": [
+            "Fahadh Faasil",
+            "Sajin Gopu",
+            "Hipzster"
+        ],
+        "moods": [
+            "Happy",
+            "Thrilling"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt26880010/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Aavesham_poster.jpg"
+    },
+    {
+        "title": "2018",
+        "language": "Malayalam",
+        "release_year": 2023,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 150,
+        "director": "Jude Anthany Joseph",
+        "cast": [
+            "Tovino Thomas",
+            "Kunchacko Boban",
+            "Asif Ali"
+        ],
+        "moods": [
+            "Inspired",
+            "Thrilling",
+            "Sad"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt21626500/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/2/25/2018_film_poster.jpg"
+    },
+    {
+        "title": "PK",
+        "language": "Hindi",
+        "release_year": 2014,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdb_rating": 8.1,
+        "duration": 153,
+        "director": "Rajkumar Hirani",
+        "cast": [
+            "Aamir Khan",
+            "Anushka Sharma",
+            "Sushant Singh Rajput"
+        ],
+        "moods": [
+            "Happy",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt2338151/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/c/c3/PK_poster.jpg"
+    },
+    {
+        "title": "Chhichhore",
+        "language": "Hindi",
+        "release_year": 2019,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 143,
+        "director": "Nitesh Tiwari",
+        "cast": [
+            "Sushant Singh Rajput",
+            "Shraddha Kapoor",
+            "Varun Sharma"
+        ],
+        "moods": [
+            "Happy",
+            "Inspired",
+            "Sad"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt7361730/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Chhichhore_Poster.jpg"
+    },
+    {
+        "title": "Oppenheimer",
+        "language": "English",
+        "release_year": 2023,
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "imdb_rating": 8.3,
+        "duration": 180,
+        "director": "Christopher Nolan",
+        "cast": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr."
+        ],
+        "moods": [
+            "Inspired",
+            "Sad"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt15398776/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_poster.jpg"
+    },
+    {
+        "title": "Fight Club",
+        "language": "English",
+        "release_year": 1999,
+        "genres": [
+            "Drama"
+        ],
+        "imdb_rating": 8.8,
+        "duration": 139,
+        "director": "David Fincher",
+        "cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter"
+        ],
+        "moods": [
+            "Thrilling",
+            "Sad"
+        ],
+        "content_rating": "Adult",
+        "url": "https://www.imdb.com/title/tt0137523/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg"
+    },
+    {
+        "title": "Dune: Part Two",
+        "language": "English",
+        "release_year": 2024,
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "imdb_rating": 8.5,
+        "duration": 166,
+        "director": "Denis Villeneuve",
+        "cast": [
+            "Timothée Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
+        ],
+        "moods": [
+            "Thrilling",
+            "Inspired"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt15239678/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "language": "English",
+        "release_year": 1994,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "imdb_rating": 8.8,
+        "duration": 142,
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "moods": [
+            "Inspired",
+            "Romantic",
+            "Sad",
+            "Happy"
+        ],
+        "content_rating": "Family-friendly",
+        "url": "https://www.imdb.com/title/tt0109830/",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+    }
+]
