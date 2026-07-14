@@ -1,91 +1,54 @@
 ========================================================================
-                      CINEMATCH AI RECOMMENDATION ENGINE
+                   RECOMMENDATION ALGORITHMS SUMMARY
 ========================================================================
 
-CineMatch AI uses a hybrid filtering algorithm combining hard criteria
-filters and weight-based metadata scoring to rank movies.
+This project utilizes two distinct recommendation algorithms:
+
+1. LIVE WEB APP ENGINE: Hybrid Content-Based & Profile Matching (app.py)
+   - Real-time recommendation wizard.
+   - Combines hard filters (language, safety, minimum rating) with 
+     weighted metadata scoring.
+   - Builds a personalized taste profile from checked liked movies.
+   - Favors quality by adding raw IMDb ratings to the total score.
+
+2. PROTOTYPE MACHINE LEARNING MODEL: Collaborative Filtering SVD (movies.ipynb)
+   - Jupyter Notebook model prototype.
+   - Uses Singular Value Decomposition (SVD) matrix factorization via 
+     the Surprise ML library.
+   - Trained on MovieLens 100k (100,000 ratings from 943 users on 1682 movies).
+   - Predicts star ratings (1 to 5) for unrated movies to find top matches.
 
 ------------------------------------------------------------------------
-PHASE 1: HARD FILTERING
+LIVE WEB APP ENGINE WEIGHTS & FILTERING DETAILS (app.py)
 ------------------------------------------------------------------------
-Before scoring, movies are filtered out based on basic user constraints:
-- Language: Excludes movies not matching the selected language (unless "All").
-- Rating: Excludes movies with IMDb ratings below the minimum threshold.
-- Safety: If "Family-friendly" is chosen, "Adult" content ratings are excluded.
-- Exclusions: Already-liked movies chosen in Step 2 are hidden from results.
-
-------------------------------------------------------------------------
-PHASE 2: WEIGHT-BASED SCORING
-------------------------------------------------------------------------
-For all remaining movies, a match score is calculated by adding points:
-
-1. Favorite Genres:
-   +4 points for each genre matching the selections in Step 1.
-
-2. Taste Profile (Liked Movies Boost):
-   If you select movies in Step 2, CineMatch extracts directors, cast members,
-   and genres to calculate user-affinity boosts:
-   - +3 points for movies sharing genres with liked movies.
-   - +6 points for movies directed by a director of any liked movie.
-   - +4 points for movies starring actors from any liked movie.
-
-3. Vibe/Mood Matching:
-   +5 points if the movie's mood catalog tags match the Step 3 vibe choice.
-
-4. Runtime matching:
-   +3 points if the duration matches the selected range:
-   - Short: < 90 mins
-   - Medium: 90 - 150 mins
-   - Long: > 150 mins
-
-5. Cast & Director Search Query:
-   +10 points if the actor/director text query matches the cast or director.
-
-6. IMDb Quality Boost:
-   Adds the numeric IMDb rating directly (e.g. +8.2 points for an 8.2 rated movie)
-   to prioritize overall quality.
+- Hard Filtering:
+  * Excludes non-matching languages (unless "All").
+  * Excludes ratings below user's selected threshold (e.g. < 7.0+).
+  * Excludes "Adult" content ratings if "Family-friendly" is chosen.
+  * Hides movies already checked in the Step 2 Liked checklist.
+- Weight Scoring:
+  * Favorite Genres: +4 points per matching selected genre.
+  * Selected Vibe/Mood: +5 points if catalog tags match the mood.
+  * Runtime Duration: +3 points if duration fits selected range.
+  * Actor/Director Search: +10 points if search query matches cast/director.
+  * IMDb Quality Boost: Adds raw rating directly (e.g. +8.3 score points).
+- Liked Movies Boost (Taste Profile):
+  * +6 points for movies directed by a director of a liked movie.
+  * +4 points for movies starring cast members of a liked movie.
+  * +3 points for movies sharing genres with liked movies.
 
 ------------------------------------------------------------------------
-PHASE 3: RANKING & MATCH INSIGHTS
+PROTOTYPE SVD MODEL DETAILS (movies.ipynb)
 ------------------------------------------------------------------------
-1. Ranking: Movies are sorted by total score in descending order.
-2. Insights: The specific reasons for point additions (e.g., "Similar genre
-   to movies you liked") are collected and shown on the recommendation cards
-   to provide clear, explainable feedback.
-========================================================================
-
-
-========================================================================
-                      MOVIES.IPNB PROTOTYPE NOTEBOOK
-========================================================================
-
-The movies.ipynb file is a Jupyter Notebook used to prototype and evaluate
-a machine learning Collaborative Filtering model on classic MovieLens data.
-
-------------------------------------------------------------------------
-1. THE SVD RECOMMENDATION ALGORITHM
-------------------------------------------------------------------------
-Unlike the lightweight hybrid rule-based engine in app.py, this notebook 
-prototypes a Collaborative Filtering model using SVD (Singular Value 
-Decomposition) from the surprise library:
-- Dataset: Loads MovieLens 100k (ml-100k) rating files (u.data, 100,000 
-  ratings from 943 users on 1,682 movies) and movie metadata (u.item).
-- Model Training: Splits ratings data (80% train, 20% test) and fits the 
-  matrix factorization SVD algorithm (n_factors=100).
-- Evaluation: Computes the RMSE (Root Mean Squared Error) prediction 
-  accuracy, which scores around 0.935 (predictions are off by less than 
-  1 star on average).
-
-------------------------------------------------------------------------
-2. NOTEBOOK CODE CELLS STRUCTURE
-------------------------------------------------------------------------
-- Cell 1 & 2 (Data Loading): Reads MovieLens ratings and items pipe/tab 
-  separated files into pandas DataFrames.
-- Cell 3 (SVD training): Fits SVD and prints SVD model RMSE test metrics.
-- Cell 4 (Top-N logic): Predicts ratings for all unseen movies for a 
-  selected user, sorts them, and displays the top 10 movies.
-- Cell 5 (Frontend parser): Formats predictions as JSON dict lists 
-  (movie_id, title, predicted_rating).
-- Cell 6 (Interactive Dropdown widgets): Uses ipywidgets to render an 
-  interactive user selection dropdown to view recommendations.
+- Matrix Factorization SVD:
+  * Factorizes the User-Item ratings matrix into user and item latent 
+    factors (using n_factors=100).
+  * Evaluated on test data split (80% train, 20% test).
+  * Achieves RMSE (Root Mean Squared Error) accuracy of ~0.935.
+- Code Cells Layout:
+  * Cells 1 & 2: Reads ratings (u.data) and items (u.item) into DataFrames.
+  * Cell 3: Trains SVD model and prints test RMSE.
+  * Cell 4: Predicts ratings for unseen movies and prints top 10 list.
+  * Cell 5: Formats top-N outputs as frontend-ready JSON lists.
+  * Cell 6: Renders interactive widgets dropdown to view SVD matches.
 ========================================================================
